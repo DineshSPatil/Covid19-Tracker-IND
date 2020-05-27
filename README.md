@@ -22,8 +22,8 @@ Guidelines- World Health Organization (WHO)
 # Disclaimer
 This is not an official government project. This is not associated in any way with my employer. I am not getting paid to do this. Also, I have no intentions of making money from this. This is created to keep people informed about the current state of Covid-19 in the Gujarat.
 
-If you feel any information is missing or there is any error, please feel free to create an <a href="https://github.com/Deepak0404/COVID19-tracker/issues">issue</a> or reach out to me directly on <a href="https://www.linkedin.com/in/deepak-saini-1303a135/">Linkedin</a> and I would be happy to assist.
+If you feel any information is missing or there is any error, please feel free to create an <a href="https://github.com/DineshSPatil/Covid19-Tracker-IND/issues">issue</a> or reach out to me directly on <a href="https://www.linkedin.com/in/dinesh-patil/">Linkedin</a> and I would be happy to assist.
 
 # Meta
-Deepak Saini - <a href="https://github.com/Deepak0404">@Deepak0404</a><br/>
+Dinesh Patil - <a href="https://github.com/DineshSPatil">@DineshSPatil</a><br/>
 Distributed under the MIT license. See LICENSE for more information.
